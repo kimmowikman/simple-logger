@@ -5,6 +5,7 @@ import java.time.format.DateTimeFormatter;
 
 /**
  * Simple and secure logger by Kimmo Wikman, Luoto Company
+ * Get most recent version of this file from: https://github.com/kimmowikman/simple-logger/
  */
 public class SimpleLogger {
 
